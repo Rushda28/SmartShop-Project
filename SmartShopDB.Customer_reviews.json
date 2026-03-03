@@ -1,0 +1,132 @@
+[{
+  "_id": {
+    "$oid": "69a5e9cb71ea1e4e26e85b30"
+  },
+  "customerName": "Rachel Zane",
+  "productName": "Monitor",
+  "rating": 4,
+  "reviewText": "Good display quality",
+  "verifiedPurchase": true,
+  "likes": 5
+},
+{
+  "_id": {
+    "$oid": "69a5e9cb71ea1e4e26e85b31"
+  },
+  "customerName": "Harvey Specter",
+  "productName": "Desk Lamp",
+  "rating": 5,
+  "reviewText": "Bright and stylish lamp",
+  "verifiedPurchase": true,
+  "likes": 8
+},
+{
+  "_id": {
+    "$oid": "69a5e9cb71ea1e4e26e85b32"
+  },
+  "customerName": "Donna Paulsen",
+  "productName": "HDMI Cable",
+  "rating": 3,
+  "reviewText": "Works fine, but short",
+  "verifiedPurchase": false,
+  "likes": 2
+},
+{
+  "_id": {
+    "$oid": "69a5ea5d71ea1e4e26e85b33"
+  },
+  "customerName": "Jessica Pearson",
+  "productName": "Headphones",
+  "rating": 5,
+  "reviewText": "Amazing sound and comfy to wear!",
+  "verifiedPurchase": true,
+  "likes": 15
+},
+{
+  "_id": {
+    "$oid": "69a5ea5d71ea1e4e26e85b34"
+  },
+  "customerName": "Louis Litt",
+  "productName": "Monitor",
+  "rating": 2,
+  "reviewText": "Colors not accurate and dim display.",
+  "verifiedPurchase": false,
+  "likes": 1
+},
+{
+  "_id": {
+    "$oid": "69a5ea5d71ea1e4e26e85b35"
+  },
+  "customerName": "Donna Paulsen",
+  "productName": "Laptop",
+  "rating": 4,
+  "reviewText": "Fast performance, sleek design.",
+  "verifiedPurchase": true,
+  "likes": 10
+},
+{
+  "_id": {
+    "$oid": "69a5ea5d71ea1e4e26e85b36"
+  },
+  "customerName": "Harvey Specter",
+  "productName": "Desk Lamp",
+  "rating": 3,
+  "reviewText": "Average brightness, okay for work desk.",
+  "verifiedPurchase": true,
+  "likes": 4
+},
+{
+  "_id": {
+    "$oid": "69a5ea5d71ea1e4e26e85b37"
+  },
+  "customerName": "Mike Ross",
+  "productName": "HDMI Cable",
+  "rating": 5,
+  "reviewText": "Perfect length and works flawlessly!",
+  "verifiedPurchase": true,
+  "likes": 7
+},
+{
+  "_id": {
+    "$oid": "69a5eb2f71ea1e4e26e85b38"
+  },
+  "customerName": "Rachel Zane",
+  "productName": "Laptop",
+  "rating": 5,
+  "reviewText": "Amazing speed and battery life!",
+  "verifiedPurchase": true,
+  "likes": 12
+},
+{
+  "_id": {
+    "$oid": "69a5eb2f71ea1e4e26e85b39"
+  },
+  "customerName": "Donna Paulsen",
+  "productName": "Desk Lamp",
+  "rating": 4,
+  "reviewText": "Stylish and bright enough for my room.",
+  "verifiedPurchase": true,
+  "likes": 6
+},
+{
+  "_id": {
+    "$oid": "69a5f2a071ea1e4e26e85b34"
+  },
+  "customerName": "Alex Jaw",
+  "productName": "Headphones",
+  "rating": 5,
+  "reviewText": "Excellent sound quality!",
+  "verifiedPurchase": true,
+  "likes": 12
+},
+{
+  "_id": {
+    "$oid": "69a5f2a071ea1e4e26e85b35"
+  },
+  "customerName": "Aleesha Khan",
+  "productName": "Headphones",
+  "rating": 5,
+  "reviewText": "Excellent sound quality!",
+  "verifiedPurchase": true,
+  "likes": 12
+}]

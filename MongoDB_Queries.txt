@@ -1,0 +1,61 @@
+[
+  {
+    $group: {
+      _id: "$productName",
+      totalReviews: {
+        $sum: 1
+      }
+    }
+  },
+  {
+    $group: {
+      _id: "$productName",
+      avgRating: {
+        $avg: "$rating"
+      }
+    }
+  },
+  {
+    $group: {
+      _id: "$verifiedPurchase",
+      count: {
+        $sum: 1
+      }
+    }
+  },
+  {
+    $group: {
+      _id: "$productName",
+      totalReviews: {
+        $sum: 1
+      },
+      avgRating: {
+        $avg: "$rating"
+      }
+    }
+  },
+  {
+    $group: {
+      _id: "$verifiedPurchase",
+      avgRating: {
+        $avg: "$rating"
+      }
+    }
+  },
+  {
+    $group: {
+      _id: "$verifiedPurchase",
+      avgRating: {
+        $avg: "$rating"
+      }
+    }
+  },
+  {
+    $group: {
+      _id: "$verifiedPurchase",
+      avgRating: {
+        $avg: "$rating"
+      }
+    }
+  }
+]
